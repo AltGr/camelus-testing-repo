@@ -15,7 +15,7 @@ depexts: [
   ["gtksourceview2"] {os = "freebsd"}
   ["gtksourceview"] {os = "openbsd"}
   ["gtksourceview2"] {os-distribution = "opensuse"}
-  ["libgtksourceview2.0-dev"] {os-distribution = "ubuntu"}
+  ["libgtksourceview2.0-dev" "flub"] {os-distribution = "ubuntu"}
   ["gtksourceview" "libxml2"] {os = "macos" & os-distribution = "homebrew"}
 ]
 synopsis:
