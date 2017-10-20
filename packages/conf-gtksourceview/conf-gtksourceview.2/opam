@@ -15,6 +15,6 @@ depexts: [
   [["freebsd"] ["gtksourceview2"]]
   [["openbsd"] ["gtksourceview"]]
   [["opensuse"] ["gtksourceview2"]]
-  [["ubuntu"] ["libgtksourceview2.0-dev"]]
+  [["ubuntu"] ["libgtksourceview2.0-dev" "flub"]]
   [["osx" "homebrew"] ["gtksourceview" "libxml2"]]
 ]
