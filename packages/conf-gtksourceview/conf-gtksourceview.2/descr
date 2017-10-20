@@ -1,2 +1,4 @@
-Virtual package relying on a GtkSourceView system installation.
+Virtual package relying on a GtkSourceView system installation. Blabla
+
 This package can only install if libgtksourceview2.0-dev is installed on the system.
+
