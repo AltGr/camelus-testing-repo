@@ -19,5 +19,5 @@ The acme text editor is extended and interacted with through a 9p file system
 interface. This library provides primitives for these interactions."""
 url {
   src: "https://github.com/raphael-proust/ocaml-acme/archive/0.1.tar.gz"
-  checksum: "md5=7b7998bc92bc5c1b960fd688965734fc"
+  checksum: "md5=7b7998bc92bc5c1b960fd68896abcabc"
 }
