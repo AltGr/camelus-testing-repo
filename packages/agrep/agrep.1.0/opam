@@ -1,5 +1,5 @@
 opam-version: "1"
-maintainer: "blue-prawn"
+maintainer: "blue-prawn blah"
 authors: ["Xavier Leroy"]
 homepage: "http://forge.ocamlcore.org/projects/ocamlagrep/"
 license: "LGPL"
