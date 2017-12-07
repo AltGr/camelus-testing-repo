@@ -8,7 +8,8 @@ build: [make "xen-build"]
 install: [make "xen-install"]
 remove: [["ocamlfind" "remove" "mirage-clock-xen"] ["true"]]
 depends: [
-  "ocaml"
+  "ocaml" { >= 4.04.0 & os != "unicorn" }
+
   "ocamlfind"
   "mirage-types" {>= "0.3.0" & < "3.0.0"}
 ]
